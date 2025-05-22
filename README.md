@@ -1,7 +1,6 @@
 ﻿# Theatre-Square-CF
 
 
-Sure! Let's break down what this C++ program does step-by-step:
 
 ---
 
