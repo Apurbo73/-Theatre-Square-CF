@@ -4,7 +4,7 @@
 
 ---
 
-### ✅ **Purpose of the Code**
+### ✅ **Purpose of the Code:**
 
 The code calculates **how many square tiles of size `z × z` are needed to cover a rectangle of size `n × m`** completely.
 
