@@ -76,7 +76,7 @@ cout << a * b << endl;
 
 ---
 
-### 🧠 Example
+### 🧠 Example:
 
 Let's say:
 
