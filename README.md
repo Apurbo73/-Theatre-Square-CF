@@ -26,7 +26,7 @@ We use `long long` to handle very large values (up to 10¹⁸).
 
 ---
 
-### 🔢 **Input**
+### 🔢 **Input:**
 
 ```cpp
 cin >> n >> m >> z;
