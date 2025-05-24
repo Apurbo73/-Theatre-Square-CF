@@ -66,7 +66,7 @@ if (m % z == 0) {
 
 ---
 
-### 🔲 **Final Step: Total Tiles**
+### 🔲 **Final Step: Total Tiles:**
 
 ```cpp
 cout << a * b << endl;
